@@ -29,23 +29,12 @@
 <br/>
 <br/>
 
-## 📊 **GitHub Stats**
+## 📊 **GitHub Streak**
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=qwc-ch&count_private=true&locale=cn&show_icons=true&title_color=FDADC7&icon_color=FFB5C5&text_color=E879A6&bg_color=00000000&border_color=FDADC7&border_radius=15" 
-             alt="GitHub Stats"
-             loading="lazy"/>
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com/?user=qwc-ch&ring=FDADC7&fire=FFB5C5&currStreakLabel=E879A6&background=00000000&border=FDADC7&stroke=FDADC7&dates=E879A6&sideNums=FDADC7&sideLabels=FFB5C5&currStreakNum=FDADC7" 
-             alt="GitHub Streak"
-             loading="lazy"/>
-      </td>
-    </tr>
-  </table>
+  <img src="https://streak-stats.demolab.com/?user=qwc-ch&ring=FDADC7&fire=FFB5C5&currStreakLabel=E879A6&background=00000000&border=FDADC7&stroke=FDADC7&dates=E879A6&sideNums=FDADC7&sideLabels=FFB5C5&currStreakNum=FDADC7" 
+       alt="GitHub Streak"
+       loading="lazy"/>
 </div>
 
 <br/>
