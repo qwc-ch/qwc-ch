@@ -14,6 +14,16 @@
   <img src="https://img.shields.io/badge/Python-FDADC7?style=for-the-badge&logo=python&logoColor=white&labelColor=FF8FB1"/>
   <img src="https://img.shields.io/badge/Node.js-FFB5C5?style=for-the-badge&logo=node.js&logoColor=white&labelColor=FDADC7"/>
   <img src="https://img.shields.io/badge/Linux-FFC8DD?style=for-the-badge&logo=linux&logoColor=white&labelColor=FFB5C5"/>
+  <br/>
+  <img src="https://img.shields.io/badge/HTML5-FDADC7?style=for-the-badge&logo=html5&logoColor=white&labelColor=FF8FB1"/>
+  <img src="https://img.shields.io/badge/CSS3-FFB5C5?style=for-the-badge&logo=css&logoColor=white&labelColor=FDADC7"/>
+  <img src="https://img.shields.io/badge/JavaScript-FFC8DD?style=for-the-badge&logo=javascript&logoColor=white&labelColor=FFB5C5"/>
+  <img src="https://img.shields.io/badge/TypeScript-FDADC7?style=for-the-badge&logo=typescript&logoColor=white&labelColor=FF8FB1"/>
+  <br/>
+  <img src="https://img.shields.io/badge/React-FFB5C5?style=for-the-badge&logo=react&logoColor=white&labelColor=FDADC7"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-FFC8DD?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=FFB5C5"/>
+  <img src="https://img.shields.io/badge/Svelte-FDADC7?style=for-the-badge&logo=svelte&logoColor=white&labelColor=FF8FB1"/>
+  <img src="https://img.shields.io/badge/Astro-FFB5C5?style=for-the-badge&logo=astro&logoColor=white&labelColor=FDADC7"/>
 </p>
 
 <br/>
@@ -30,7 +40,7 @@
              loading="lazy"/>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=qwc-ch&ring=FDADC7&fire=FFB5C5&currStreakLabel=E879A6&background=00000000&border=FDADC7&stroke=FDADC7&dates=E879A6&sideNums=FDADC7&sideLabels=FFB5C5&currStreakNum=FDADC7" 
+        <img src="https://streak-stats.demolab.com/?user=qwc-ch&ring=FDADC7&fire=FFB5C5&currStreakLabel=E879A6&background=00000000&border=FDADC7&stroke=FDADC7&dates=E879A6&sideNums=FDADC7&sideLabels=FFB5C5&currStreakNum=FDADC7" 
              alt="GitHub Streak"
              loading="lazy"/>
       </td>
@@ -52,7 +62,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qwc-ch&color=FDADC7&style=for-the-badge&label=Profile+Views" 
+  <img src="https://hits.sh/github.com/qwc-ch.svg?style=for-the-badge&color=FDADC7&label=Profile+Views&labelColor=FF8FB1" 
        alt="Profile Views"
        loading="lazy"/>
 </p>
